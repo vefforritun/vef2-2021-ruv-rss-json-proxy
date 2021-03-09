@@ -1,0 +1,160 @@
+[
+  {
+    "id": "allar",
+    "url": "https://www.ruv.is/rss/frettir",
+    "title": "Allar fréttir"
+  },
+  {
+    "id": "innlent",
+    "url": "https://www.ruv.is/rss/innlent",
+    "title": "Innlent",
+    "children": [
+      {
+        "id": "stjornmal",
+        "url": "https://www.ruv.is/rss/Stjórnmál",
+        "title": "Stjórnmál"
+      },
+      {
+        "id": "efnahagsmal",
+        "url": "https://www.ruv.is/rss/Efnahagsmál",
+        "title": "Efnahagsmál og viðskipti"
+      },
+      {
+        "id": "neytendamal",
+        "url": "https://www.ruv.is/rss/Neytendamál",
+        "title": "Neytendamál"
+      },
+      {
+        "id": "hofudborgarsvaedid",
+        "url": "https://www.ruv.is/rss/Höfuðborgarsvæðið",
+        "title": "Höfuðborgarsvæðið"
+      },
+      {
+        "id": "sudurland",
+        "url": "https://www.ruv.is/rss/Suðurland",
+        "title": "Suðurland"
+      },
+      {
+        "id": "austurland",
+        "url": "https://www.ruv.is/rss/Austurland",
+        "title": "Austurland"
+      },
+      {
+        "id": "nordurland",
+        "url": "https://www.ruv.is/rss/Norðurland",
+        "title": "Norðurland"
+      },
+      {
+        "id": "vesturland",
+        "url": "https://www.ruv.is/rss/Vesturland",
+        "title": "Vesturland"
+      }
+    ]
+  },
+  {
+    "id": "erlent",
+    "url": "https://www.ruv.is/rss/erlent",
+    "title": "Erlendar fréttir",
+    "children": [
+      {
+        "id": "afrika",
+        "url": "https://www.ruv.is/rss/Afríka",
+        "title": "Afríka"
+      },
+      {
+        "id": "asia",
+        "url": "https://www.ruv.is/rss/Asía",
+        "title": "Asía"
+      },
+      {
+        "id": "evropa",
+        "url": "https://www.ruv.is/rss/Evrópa",
+        "title": "Evrópa"
+      },
+      {
+        "id": "mid-sudur-amerika",
+        "url": "https://www.ruv.is/rss/Mið- og Suður-Ameríka",
+        "title": "Mið og Suður-Ameríka"
+      },
+      {
+        "id": "nordur-amerika",
+        "url": "https://www.ruv.is/rss/Norður Ameríka",
+        "title": "Norður Ameríka"
+      }
+    ]
+  },
+  {
+    "id": "ithrottir",
+    "url": "https://www.ruv.is/rss/Íþróttir",
+    "title": "Íþróttir",
+    "children": [
+      {
+        "id": "fotbolti",
+        "url": "https://www.ruv.is/rss/Fótbolti",
+        "title": "Fótbolti"
+      },
+      {
+        "id": "handbolti",
+        "url": "https://www.ruv.is/rss/Handbolti",
+        "title": "Handbolti"
+      },
+      {
+        "id" : "korfubolti",
+        "url": "https://www.ruv.is/rss/Körfubolti",
+        "title": "Körfubolti"
+      },
+      {
+        "id": "frjalsar",
+        "url": "https://www.ruv.is/rss/Frjálsar",
+        "title": "Frjálsar"
+      },
+      {
+        "id": "fimleikar",
+        "url": "https://www.ruv.is/rss/Fimleikar",
+        "title": "Fimleikar"
+      },
+      {
+        "id": "golf",
+        "url": "https://www.ruv.is/rss/Golf",
+        "title": "Golf"
+      }
+    ]
+  },
+  {
+    "id": "menning",
+    "url": "https://www.ruv.is/rss/menningarefni",
+    "title": "Menning",
+    "children": [
+      {
+        "id": "bokmenntir",
+        "url": "https://www.ruv.is/rss/Bókmenntir",
+        "title": "Bókmenntir"
+      },
+      {
+        "id": "tonlist",
+        "url": "https://www.ruv.is/rss/Tónlist",
+        "title": "Tónlist"
+      },
+      {
+        "id": "kvikmyndir-og-sjonvarp",
+        "url": "https://www.ruv.is/rss/Kvikmyndir",
+        "title": "Kvikmyndir og sjónvarp"
+      },
+      {
+        "id": "svidslist",
+        "url": "https://www.ruv.is/rss/Leiklist",
+        "title": "Sviðslistir"
+      },
+      {
+        "id": "gagnryni",
+        "url": "https://www.ruv.is/rss/Gagnrýni",
+        "title": "Gagnrýni"
+      },
+      {
+        "id": "pistlar",
+        "url": "https://www.ruv.is/rss/Pistlar",
+        "title": "Pistlar"
+      }
+    ]
+  }
+]
